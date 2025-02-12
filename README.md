@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Guilherme  sou DEV FULLSTACK  em formação</h2>
+<h2 align="left">Olá👋! Meu nome é Guilherme  sou DEV FULLSTACK</h2>
 
 ###
 
