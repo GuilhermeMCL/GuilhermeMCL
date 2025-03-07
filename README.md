@@ -61,3 +61,20 @@
 <p align="left">. analise e desenvolvimento de sistemas -UNISCESUMAR<br><br>. Full-stack -Rocketseat<br><br>. Mestre React-native em desenvolvimento mobile -rocketseat<br><br>. desenvolvimento Java - Rocketseat<br><br>. Back-end NodeJS Rocketseat<br><br>. Desenvolvimento em React - Rocketseat</p>
 
 ###
+💻 Desenvolvedor Backend apaixonado por tecnologia e construção de APIs escaláveis.  
+
+🔹 Tecnologias principais:  
+- **Linguagem:** TypeScript, JavaScript  
+- **Backend:** Node.js, Fastify, Prisma, Express  
+- **Banco de Dados:** PostgreSQL, SQLite  
+- **Testes:** Jest  
+- **Ferramentas:** Docker, Git, Insomnia, Postman  
+
+📌 Confira meus projetos:  
+- [Agendei API](https://github.com/GuilhermeMCL/agendei-api) - API para agendamentos com Fastify e Prisma.  
+- [Restaurant API](https://github.com/GuilhermeMCL/api-restaurant) - Gestão de restaurantes com autenticação JWT.  
+- [API Solid Node.js](https://github.com/GuilhermeMCL/api-solid-node) - Arquitetura SOLID aplicada em Node.js.  
+
+📫 **Me encontre em:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeMCL-blue)](https://linkedin.com/in/guilhermemcl)  
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeMCL-black)](https://github.com/GuilhermeMCL)  
