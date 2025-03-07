@@ -71,9 +71,9 @@
 - **Ferramentas:** Docker, Git, Insomnia, Postman  
 
 📌 Confira meus projetos:  
-- [Agendei API](https://github.com/GuilhermeMCL/agendei-api) - API para agendamentos com Fastify e Prisma.  
-- [Restaurant API](https://github.com/GuilhermeMCL/api-restaurant) - Gestão de restaurantes com autenticação JWT.  
-- [API Solid Node.js](https://github.com/GuilhermeMCL/api-solid-node) - Arquitetura SOLID aplicada em Node.js.  
+- [EVENT API](https://github.com/GuilhermeMCL/event-manager-api) - API para gerenciamento de eventos com JWT e solid
+- [Restaurant API](https://github.com/GuilhermeMCL/API-TRAVEL-IA-MANAGER) - API de Gestão de Viagens (RESTful)
+- [API Solid Node.js](https://github.com/GuilhermeMCL/03-api-solid-nodejs) - Arquitetura SOLID aplicada em Node.js.  
 
 📫 **Me encontre em:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeMCL-blue)](https://linkedin.com/in/guilhermemcl)  
