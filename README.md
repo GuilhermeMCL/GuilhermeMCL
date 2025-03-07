@@ -57,8 +57,7 @@
 <h2 align="left">Cusando</h2>
 
 ###
-
-<p align="left">. analise e desenvolvimento de sistemas -UNISCESUMAR<br><br>. Full-stack -Rocketseat<br><br>. Mestre React-native em desenvolvimento mobile -rocketseat<br><br>. desenvolvimento Java - Rocketseat<br><br>. Back-end NodeJS Rocketseat<br><br>. Desenvolvimento em React - Rocketseat</p>
+<p align="left">. analise e desenvolvimento de sistemas -UNISCESUMAR<br>
 
 ###
 💻 Desenvolvedor Backend apaixonado por tecnologia e construção de APIs escaláveis.  
